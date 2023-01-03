@@ -1,0 +1,10 @@
+h1 {
+    color: #000;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    margin-left: 10px;;
+    background-color: #1E90FF;
+  }
